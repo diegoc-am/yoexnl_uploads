@@ -47,3 +47,8 @@ build-iPhoneSimulator/
 
 # Environment variables
 .env
+
+
+# OS X
+
+.DS_Store
